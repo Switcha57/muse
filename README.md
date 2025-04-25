@@ -2,6 +2,10 @@
   <img width="250" height="250" src="https://raw.githubusercontent.com/museofficial/muse/master/.github/logo.png">
 </p>
 
+> [!NOTE]
+> Thank you to GitHub user luthfipun for the fix to sig.js
+
+
 > [!WARNING]
 > I ([@codetheweb](https://github.com/codetheweb)) am no longer the primary maintainer of Muse. **If you use the Docker image, update your image source to `ghcr.io/museofficial/muse`.** We are currently publishing new releases to both `ghcr.io/museofficial/muse` and `codetheweb/muse`, but this may change in the future.
 > Thank you to all the people who stepped up to help maintain Muse!
